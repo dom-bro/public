@@ -1,4 +1,2 @@
-HTTPS as1mie.83fhe.xyz:11500
-HTTPS zabbix.12614.xyz:10500
-HTTPS node-tokyo1.caddy4.xyz:1443
-HTTPS asmie.83fhe.xyz:10500
+HTTPS as1mie.83fhe.xyz:11500 // HongKong
+HTTPS node-2.45fvg.xyz:443 // United States 2
