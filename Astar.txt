@@ -1,1 +1,1 @@
-HTTPS hk1-1.83fhe.xyz:1443 // Hong Kong
+HTTPS node1-1.cdn770.com:4433 // US1
