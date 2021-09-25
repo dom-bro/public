@@ -1,1 +1,1 @@
-HTTPS node1-1.cdn770.com:4433 // US1
+HTTPS hongkong.83fhe.xyz:1443
